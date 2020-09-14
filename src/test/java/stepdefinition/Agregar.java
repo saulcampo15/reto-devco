@@ -16,7 +16,7 @@ import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 
-public class PalabraClave {
+public class Agregar {
 
     @Before
     public void setHabilidadesActor() {

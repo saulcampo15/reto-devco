@@ -10,4 +10,9 @@
       When agrego la palabra clave 'otra'
       Then verifico que la palabra 'otra' haya sido agregada
 
+    @Case2
+    Scenario: Completar una palabra clave
+
+      When completo la palabra clave 'otra'
+      Then verifico que la palabra 'otra' haya sido completada
 
