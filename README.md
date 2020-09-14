@@ -2,7 +2,7 @@
 Desarrollo del reto propuesto en el que se realizan pruebas automatizadas a la aplicación [AngularJS](http://todomvc.com/examples/angularjs/#/)
 
 -------------
-### Tegnologías Implementadas
+### Tecnologías Implementadas
 
 El proyecto se realizó utilizando Serenity BDD, Cucumber, y el patrón de diseño Screenplay.
 
